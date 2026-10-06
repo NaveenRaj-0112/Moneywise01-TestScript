@@ -41,9 +41,29 @@ Dashboard
 9.) Verify that after adding an expense, the dashboard displays the expense correctly under the **Today** and **This Month** fields.
 
 
-10.)Verify that the **Add Expense** and **Add Income** buttons are available in the Dashboard module. Click each button separately and verify that the user is navigated to the corresponding **Add Expense** and **Add Income** pages.
+10.) Verify that the **Add Expense** and **Add Income** buttons are available in the Dashboard module. Click each button separately and verify that the user is navigated to the corresponding **Add Expense** and **Add Income** pages.
 
-11.)Verify by click on the
+11.) Verify that clicking the **Event Expense** button navigates to the corresponding page.
+
+12.) Verify that clicking on the **View All** link navigates to the **Transaction History** page.
+
+13.) Verify that the **current date** is displayed after clicking the **View All** link and that the corresponding transaction name is fetched correctly.
+
+14.) Verify that clicking the **Clear** button in the Dashboard module deletes only the **current date's expenses** and does not delete expenses from previous dates.
+
+
+Statistics
+-------------
+
+15.) Verify that clicking on the **Statistics** module navigates to the corresponding page and that the page is displayed correctly. Take a screenshot to verify the page.
+
+16.) verify by check the total income and  total expense field correct value should be present and what ever we are addeing monney and the expenses shouls be added hear 
+     
+17.) verify by add the income and expense  all month wise and handel the month drop down  and  year drop down check that consent monthe expense are displaying or not   
+
+18.)  
+
+
  
 
     
