@@ -1,0 +1,53 @@
+
+------------------------------------------------------------Test Scenarios---------------------------------------------------------
+
+launching
+---------
+1.) Verify that the MoneyWise page is displayed when the URL is copied and pasted into the Chrome browser's address bar.
+    check the current URL, capture a screenshot of the Sign-In page, and verify that the MoneyWise logo is present in the correct position.
+
+2.) Verify that after successfully signing up, the application navigates directly to the Sign-In page.
+
+Signin module 
+------------
+
+3.) Verify that after entering valid credentials (username and password) on the Sign-In page and clicking the Sign-In button,
+    the MoneyWise Dashboard is displayed. Capture a screenshot of the Dashboard page.
+    
+income module 
+-------------
+4.) Verify that by clicking the Income module, entering a valid amount and other required details in the Income module fields, 
+    and submitting the entry, the entered income amount is displayed correctly on the MoneyWise Dashboard. 
+    Verify that all entered income data is accurately reflected on the Dashboard.
+    
+Expense Module 
+--------------     
+
+5.) verify that click on the Expense module , required page should be display in that page enter the expense amount.
+    and select the categorys  and set the required date and notes and click on the add expenses button.  
+    
+6.) Check the dashboard once an expense is added.The added expense amount should be subtracted from the available balance based on the entered amount and selected category.
+
+
+Dashboard
+----------
+
+7.) Verify that the income is added successfully and check the dashboard to confirm that the income amount is reflected correctly. 
+    Then, add an expense and verify that the expense amount is subtracted from the added income. 
+    Finally, verify that the dashboard displays the correct remaining balance.
+
+8.) Verify that clicking the **Erase** icon clears the available balance and check whether the balance is erased successfully.
+
+9.) Verify that after adding an expense, the dashboard displays the expense correctly under the **Today** and **This Month** fields.
+
+
+10.)Verify that the **Add Expense** and **Add Income** buttons are available in the Dashboard module. Click each button separately and verify that the user is navigated to the corresponding **Add Expense** and **Add Income** pages.
+
+11.)Verify by click on the
+ 
+
+    
+
+
+
+
